@@ -1,0 +1,7 @@
+{
+        "command": "login",
+        "arguments": {
+                "userId": "__USER_ID__",
+                "password": "__PASSWORD__"
+        }
+}
